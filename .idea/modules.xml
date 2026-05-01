@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algoritmos-Programação.iml" filepath="$PROJECT_DIR$/.idea/Algoritmos-Programação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/aula-1-Java.iml" filepath="$PROJECT_DIR$/aula-1-Java/aula-1-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex01/ex01.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex02/ex02.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex03/ex03.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex03/ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex04/ex04.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex04/ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex05/ex05.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex05/ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex06/ex06.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex06/ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex07/ex07.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex07/ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex08/ex08.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex08/ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex09/ex09.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex09/ex09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex1/ex1.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex10/ex10.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex10/ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex11/ex11.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex11/ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/ex12/ex12.iml" filepath="$PROJECT_DIR$/aula-2-Java/ex12/ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex2/ex2.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex2/ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex3/ex3.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex3/ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex4/ex4.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex4/ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex5/ex5.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex5/ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex6/ex6.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex7/ex7.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex7/ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex8/ex8.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex8/ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-1-Java/ex9/ex9.iml" filepath="$PROJECT_DIR$/aula-1-Java/ex9/ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-2-Java/untitled/untitled.iml" filepath="$PROJECT_DIR$/aula-2-Java/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
